@@ -1,0 +1,13 @@
+[wokwi]
+version = 1
+firmware = "sketch.ino"
+elf = "sketch.ino.elf"
+
+[[lib]]
+name = "DHT sensor library"
+
+[[lib]]
+name = "PubSubClient"
+
+[[lib]]
+name = "ESP32Servo"
